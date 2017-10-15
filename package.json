@@ -1,0 +1,27 @@
+{
+  "name": "playground",
+  "version": "1.0.0",
+  "description": "play with  new stuff",
+  "main": "url.js",
+  "scripts": {
+    "test": "node "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com:thapel0/playground.git"
+  },
+  "keywords": [
+    "play"
+  ],
+  "author": "Thapelo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thapel0/playground.git"
+  },
+  "homepage": "https://github.com/thapel0/playground.git",
+  "dependencies": {
+    "excel-as-json": "^2.0.1",
+    "excel-parser": "^0.2.2",
+    "exceljs": "^0.6.2"
+  }
+}
